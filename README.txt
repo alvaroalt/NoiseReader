@@ -1,6 +1,6 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║        N O I S E   R E A D E R  ·  G U Í A   D E   U S O       ║
+║        N O I S E   R E A D E R  ·  G U Í A   D E   U S O         ║
 ║                       Para usuarios sin experiencia técnica      ║
 ║                                                                  ║
 ║                          ·  versión 0.1  ·                       ║
@@ -51,13 +51,6 @@
        Es el único archivo de la aplicación.
 
     ·  Un archivo .txt o .pdf que quieras leer.
-
-  ┌─────────────────────────────────────────────────────────────┐
-  │  ¿No sabés si tu navegador es moderno? Si lo actualizaste   │
-  │  en los últimos dos años, muy probablemente sí lo es.       │
-  │  Si tenés dudas, descargá Chrome desde:                     │
-  │  www.google.com/chrome                                      │
-  └─────────────────────────────────────────────────────────────┘
 
 
 
